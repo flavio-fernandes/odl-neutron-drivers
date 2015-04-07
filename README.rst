@@ -3,6 +3,10 @@ odl-neutron-drivers
 
 This repository hosts the OpenDaylight project's OpenStack Neutron drivers.
 
+'''NOTE: This repo is now deprecated.'''. Please refer to this link for more info:
+
+   https://lists.opendaylight.org/pipermail/ovsdb-dev/2015-February/001132.html
+
 Usage
 -----
 
